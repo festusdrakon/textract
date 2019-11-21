@@ -1,0 +1,39 @@
+Tax Invoice
+COMPUTER ELECTRONICS - 2016-2017 (From 1-Apr-2016) | Invoice No. Dated
+59-A OUTRAM LANE MAIN MARKET 353 17-Sep-2017
+KINGSWAY CAMP Delivery Note Mode/Terms of Payment
+DELHI-110009
+9582900985 ,27608350 — +
+GSTIN/UIN: O7AACFC7678Q1ZN Supplier's Ref. Other Reference(s)
+E-Mail : computerelectronics85@yahoo.co.in GST353
+Buyer Buyer's Order No. Dated
+FASHION FOCUS |
+1797/132 SHANTI NAGAR Despatch Document No. __| Delivery Note Date
+99999'
+State Name : Delhi, Code : 07 Despatched through Destination
+GSTIN/UIN : O7AAEFFO659E2ZN
+Terms of Delivery .
+sl Description of Goods HSN/SAC | Quantity Rate per |Disc. % Amount
+No,
+1 |LG WAC LWA5GW3A 8415 4 PCS| 22,500.00 | PCS | 21.875 % 17,578.13
+SR. NO. 705NAEC063172
+17,578.13
+CGST@14% 14\% 2,460.94
+SGST@14% 14\% 2,460.94
+Less : ROUND OFF (-)0.01
+Total | 4Pcs | | % 22,500.00
+Amount Chargeable (in words) E&OE
+Indian Rupees Twenty Two Thousand Five Hundred Only
+HSN/SAC Taxable Central Tax State Tax Total
+Value Rate Amount _| Tax Amount
+8415
+Total| 17,578.13] | 2,460.94] |_2,460.94/ 4,921.88
+Tax Amount (in words) : Indian Rupees Four Thousand Nine Hundred Twenty One and Eighty Eight
+paise Only
+Company's VAT TIN : 07770110774
+Company's CST No. : 07770110774
+Declaration for COMPUTER ELECTRONICS - 2016-2017 (From 1-Apr-2016)
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and
+correct. Authorised Signatory
+This is a Computer Generated Invoice
